@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation_SwipView</string>
+    <string name="tab_text_1">מסך 1</string>
+    <string name="tab_text_2">מסך 2</string>
+    <string name="tab_text_3">מסך 3</string>
+    <string name="tab_text_4">מסך 4</string>
+</resources>
